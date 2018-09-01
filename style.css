@@ -1,0 +1,14 @@
+/* setting body background color using gradients */
+body{
+    background: linear-gradient(lightyellow,yellow);
+}
+header{
+    width: 140px; /*setting header width to 140px*/
+    height:70px; /*setting header height to 70px*/
+    background-color:blue ; /*setting header background color to blue*/
+    border: 1px; /*setting header border to 1px*/
+    color: #fff; /*setting text-color inside header to white*/
+    border-radius: 50%;/*setting border of radius 50%*/
+    padding: 20px;/*inner space of 20px*/
+    text-align: center;/*align the contents to center*/
+}
